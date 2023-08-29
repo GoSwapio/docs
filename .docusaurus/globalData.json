@@ -8,13 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Introduction/GoSwap",
+          "mainDocId": "Introduction",
           "docs": [
-            {
-              "id": "Blueprint",
-              "path": "/docs/Blueprint",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "Good/Burn plan",
               "path": "/docs/Good/Burn plan",
@@ -31,33 +26,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Good/Token",
+              "path": "/docs/Good/Token",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Good/Tokenomics",
               "path": "/docs/Good/Tokenomics",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Good/Utilities/AMM",
-              "path": "/docs/Good/Utilities/AMM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Good/Utilities/Community/Contribution Program",
-              "path": "/docs/Good/Utilities/Community/Contribution Program",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Good/Utilities/Community/Grants",
-              "path": "/docs/Good/Utilities/Community/Grants",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Good/Utilities/Community/Liquidity Mining",
-              "path": "/docs/Good/Utilities/Community/Liquidity Mining",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Good/Utilities/Community/Staking",
-              "path": "/docs/Good/Utilities/Community/Staking",
+              "id": "Good/Utilities",
+              "path": "/docs/Good/Utilities",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,63 +46,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "Introduction",
+              "path": "/docs/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Introduction/Goals",
-              "path": "/docs/Introduction/Goals",
+              "id": "Solutions/Consumer",
+              "path": "/docs/Solutions/Consumer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Introduction/GoSwap",
-              "path": "/docs/Introduction/GoSwap",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Introduction/Vision",
-              "path": "/docs/Introduction/Vision",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/about",
-              "path": "/docs/Solutions/about",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/Consumer/On & Offramp Solutions",
-              "path": "/docs/Solutions/Consumer/On & Offramp Solutions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/Consumer/Trading & Market Making",
-              "path": "/docs/Solutions/Consumer/Trading & Market Making",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/Crypto/Chain dApps",
-              "path": "/docs/Solutions/Crypto/Chain dApps",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/Crypto/Onboarding",
-              "path": "/docs/Solutions/Crypto/Onboarding",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/goals",
-              "path": "/docs/Solutions/goals",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Solutions/vision",
-              "path": "/docs/Solutions/vision",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/introduction",
-              "path": "/docs/category/introduction",
+              "id": "Solutions/Crypto",
+              "path": "/docs/Solutions/Crypto",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -131,23 +66,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/utilities",
-              "path": "/docs/category/utilities",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/solutions",
               "path": "/docs/category/solutions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/consumer",
-              "path": "/docs/category/consumer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/crypto",
-              "path": "/docs/category/crypto",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -155,7 +75,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/introduction",
+                "path": "/docs/Introduction",
                 "label": "Introduction"
               }
             }

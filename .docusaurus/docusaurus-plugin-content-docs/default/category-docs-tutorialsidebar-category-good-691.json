@@ -5,12 +5,12 @@
   "permalink": "/docs/category/good",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
-      "permalink": "/docs/intro"
+      "title": "Introduction",
+      "permalink": "/docs/Introduction"
     },
     "next": {
-      "title": "Tokenomics",
-      "permalink": "/docs/Good/Tokenomics"
+      "title": "Token",
+      "permalink": "/docs/Good/Token"
     }
   }
 }

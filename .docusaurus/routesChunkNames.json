@@ -143,40 +143,20 @@
     },
     "content": "393be207"
   },
-  "/docs-072": {
+  "/docs-6a8": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "e9631a7c"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/Blueprint-89b": {
-    "__comp": "17896441",
-    "content": "5956030d"
-  },
-  "/docs/category/consumer-ff8": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "3b97f9f7"
-  },
-  "/docs/category/crypto-4bc": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "3d71c504"
-  },
   "/docs/category/good-437": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "f6a701d6"
   },
-  "/docs/category/introduction-d40": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "205e281e"
-  },
   "/docs/category/solutions-5ad": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "6fd88b8b"
-  },
-  "/docs/category/utilities-9d3": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "32e572c7"
   },
   "/docs/Good/Burn plan-6f6": {
     "__comp": "17896441",
@@ -190,77 +170,33 @@
     "__comp": "17896441",
     "content": "27343505"
   },
+  "/docs/Good/Token-8a4": {
+    "__comp": "17896441",
+    "content": "b7990bd8"
+  },
   "/docs/Good/Tokenomics-f0a": {
     "__comp": "17896441",
     "content": "edd5167f"
   },
-  "/docs/Good/Utilities/AMM-7d0": {
+  "/docs/Good/Utilities-a68": {
     "__comp": "17896441",
-    "content": "462d19e3"
-  },
-  "/docs/Good/Utilities/Community/Contribution Program-3b1": {
-    "__comp": "17896441",
-    "content": "18e40bdb"
-  },
-  "/docs/Good/Utilities/Community/Grants-fb8": {
-    "__comp": "17896441",
-    "content": "17839c72"
-  },
-  "/docs/Good/Utilities/Community/Liquidity Mining-d2a": {
-    "__comp": "17896441",
-    "content": "3c704b56"
-  },
-  "/docs/Good/Utilities/Community/Staking-863": {
-    "__comp": "17896441",
-    "content": "06c1fc9f"
+    "content": "10905365"
   },
   "/docs/GoTrade-214": {
     "__comp": "17896441",
     "content": "cbfee290"
   },
-  "/docs/intro-aed": {
+  "/docs/Introduction-de5": {
     "__comp": "17896441",
-    "content": "0e384e19"
+    "content": "e0a19902"
   },
-  "/docs/Introduction/Goals-e47": {
+  "/docs/Solutions/Consumer-fca": {
     "__comp": "17896441",
-    "content": "7c2b7f54"
+    "content": "18c35850"
   },
-  "/docs/Introduction/GoSwap-2a6": {
+  "/docs/Solutions/Crypto-50a": {
     "__comp": "17896441",
-    "content": "b8f9801d"
-  },
-  "/docs/Introduction/Vision-077": {
-    "__comp": "17896441",
-    "content": "ab10399d"
-  },
-  "/docs/Solutions/about-151": {
-    "__comp": "17896441",
-    "content": "be0ea76d"
-  },
-  "/docs/Solutions/Consumer/On & Offramp Solutions-f0a": {
-    "__comp": "17896441",
-    "content": "2fa010d1"
-  },
-  "/docs/Solutions/Consumer/Trading & Market Making-883": {
-    "__comp": "17896441",
-    "content": "b217de25"
-  },
-  "/docs/Solutions/Crypto/Chain dApps-0cc": {
-    "__comp": "17896441",
-    "content": "44a0ba80"
-  },
-  "/docs/Solutions/Crypto/Onboarding-14b": {
-    "__comp": "17896441",
-    "content": "5c8aaa59"
-  },
-  "/docs/Solutions/goals-7f7": {
-    "__comp": "17896441",
-    "content": "2f5e3eb0"
-  },
-  "/docs/Solutions/vision-4b8": {
-    "__comp": "17896441",
-    "content": "58704736"
+    "content": "3a23b6b5"
   },
   "/-783": {
     "__comp": "c4f5d8e4",

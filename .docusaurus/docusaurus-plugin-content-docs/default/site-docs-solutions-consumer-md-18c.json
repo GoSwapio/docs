@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Solutions/Consumer",
+  "id": "Solutions/Consumer",
+  "title": "Consumer",
+  "description": "To support our ecosystem and user growth GoSwap is looking into several consumer solutions. These solutions are on and offramp solutions, but also possibilities to create market making solutions such as trading toolsets. These tools are exclusively created for GoSwap, to boost our token, project listings and the portfolio from our users / customers.",
+  "source": "@site/docs/Solutions/Consumer.md",
+  "sourceDirName": "Solutions",
+  "slug": "/Solutions/Consumer",
+  "permalink": "/docs/Solutions/Consumer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solutions",
+    "permalink": "/docs/category/solutions"
+  },
+  "next": {
+    "title": "Crypto",
+    "permalink": "/docs/Solutions/Crypto"
+  }
+}

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4474],{6185:t=>{t.exports=JSON.parse('{"title":"Introduction","description":"GoSwap | Introduction","slug":"/category/introduction","permalink":"/docs/category/introduction","navigation":{"next":{"title":"GoSwap","permalink":"/docs/Introduction/GoSwap"}}}')}}]);

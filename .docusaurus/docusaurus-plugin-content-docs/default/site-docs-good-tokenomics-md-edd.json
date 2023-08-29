@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Tokenomics.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "$GOOD",
-    "permalink": "/docs/category/good"
+    "title": "Token",
+    "permalink": "/docs/Good/Token"
   },
   "next": {
     "title": "Distribution",

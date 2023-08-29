@@ -45,14 +45,14 @@ export default {
       "title": "GoSwap.io",
       "logo": {
         "alt": "GoSwap Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Litepaper"
         },
         {
           "to": "/blog",

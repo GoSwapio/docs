@@ -10,37 +10,10 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "category",
-        "label": "Introduction",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "GoSwap",
-            "href": "/docs/Introduction/GoSwap",
-            "docId": "Introduction/GoSwap"
-          },
-          {
-            "type": "link",
-            "label": "Vision",
-            "href": "/docs/Introduction/Vision",
-            "docId": "Introduction/Vision"
-          },
-          {
-            "type": "link",
-            "label": "Goals",
-            "href": "/docs/Introduction/Goals",
-            "docId": "Introduction/Goals"
-          }
-        ],
-        "href": "/docs/category/introduction"
-      },
-      {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
+        "label": "Introduction",
+        "href": "/docs/Introduction",
+        "docId": "Introduction"
       },
       {
         "type": "category",
@@ -48,6 +21,12 @@
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "link",
+            "label": "Token",
+            "href": "/docs/Good/Token",
+            "docId": "Good/Token"
+          },
           {
             "type": "link",
             "label": "Tokenomics",
@@ -61,63 +40,22 @@
             "docId": "Good/Distribution"
           },
           {
-            "type": "category",
-            "label": "Utilities",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "AMM",
-                "href": "/docs/Good/Utilities/AMM",
-                "docId": "Good/Utilities/AMM"
-              },
-              {
-                "type": "category",
-                "label": "Community",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Staking",
-                    "href": "/docs/Good/Utilities/Community/Staking",
-                    "docId": "Good/Utilities/Community/Staking"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Grants",
-                    "href": "/docs/Good/Utilities/Community/Grants",
-                    "docId": "Good/Utilities/Community/Grants"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Contribution Program",
-                    "href": "/docs/Good/Utilities/Community/Contribution Program",
-                    "docId": "Good/Utilities/Community/Contribution Program"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Liquidity Mining",
-                    "href": "/docs/Good/Utilities/Community/Liquidity Mining",
-                    "docId": "Good/Utilities/Community/Liquidity Mining"
-                  }
-                ]
-              }
-            ],
-            "href": "/docs/category/utilities"
-          },
-          {
             "type": "link",
-            "label": "Burn plan",
-            "href": "/docs/Good/Burn plan",
-            "docId": "Good/Burn plan"
+            "label": "Utilities",
+            "href": "/docs/Good/Utilities",
+            "docId": "Good/Utilities"
           },
           {
             "type": "link",
             "label": "Governance",
             "href": "/docs/Good/Governance",
             "docId": "Good/Governance"
+          },
+          {
+            "type": "link",
+            "label": "Burn plan",
+            "href": "/docs/Good/Burn plan",
+            "docId": "Good/Burn plan"
           }
         ],
         "href": "/docs/category/good"
@@ -129,73 +67,19 @@
         "collapsed": true,
         "items": [
           {
-            "type": "category",
+            "type": "link",
             "label": "Consumer",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "On & Offramp Solutions",
-                "href": "/docs/Solutions/Consumer/On & Offramp Solutions",
-                "docId": "Solutions/Consumer/On & Offramp Solutions"
-              },
-              {
-                "type": "link",
-                "label": "Trading & Market Making",
-                "href": "/docs/Solutions/Consumer/Trading & Market Making",
-                "docId": "Solutions/Consumer/Trading & Market Making"
-              }
-            ],
-            "href": "/docs/category/consumer"
+            "href": "/docs/Solutions/Consumer",
+            "docId": "Solutions/Consumer"
           },
           {
-            "type": "category",
+            "type": "link",
             "label": "Crypto",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Chain dApps",
-                "href": "/docs/Solutions/Crypto/Chain dApps",
-                "docId": "Solutions/Crypto/Chain dApps"
-              },
-              {
-                "type": "link",
-                "label": "Onboarding",
-                "href": "/docs/Solutions/Crypto/Onboarding",
-                "docId": "Solutions/Crypto/Onboarding"
-              }
-            ],
-            "href": "/docs/category/crypto"
-          },
-          {
-            "type": "link",
-            "label": "about",
-            "href": "/docs/Solutions/about",
-            "docId": "Solutions/about"
-          },
-          {
-            "type": "link",
-            "label": "goals",
-            "href": "/docs/Solutions/goals",
-            "docId": "Solutions/goals"
-          },
-          {
-            "type": "link",
-            "label": "vision",
-            "href": "/docs/Solutions/vision",
-            "docId": "Solutions/vision"
+            "href": "/docs/Solutions/Crypto",
+            "docId": "Solutions/Crypto"
           }
         ],
         "href": "/docs/category/solutions"
-      },
-      {
-        "type": "link",
-        "label": "Blueprint",
-        "href": "/docs/Blueprint",
-        "docId": "Blueprint"
       },
       {
         "type": "link",
@@ -206,12 +90,6 @@
     ]
   },
   "docs": {
-    "Blueprint": {
-      "id": "Blueprint",
-      "title": "Blueprint",
-      "description": "Our team at GoSwap.io knows how hard it is to get both technical and non-technical questions answered. Whether you are launching your own token or looking to go crosschain with your project, for everything launched there are tons of technical questions. You like to do it right from the start rather than struggling further down the line. There are a lot of micro processes that are involved. GoSwap would like to help out and make these processes easier, we provide a free service to help those in need out. We have a huge network with trusted partners who are there to help and manage this process for you.",
-      "sidebar": "tutorialSidebar"
-    },
     "Good/Burn plan": {
       "id": "Good/Burn plan",
       "title": "Burn plan",
@@ -230,40 +108,22 @@
       "description": "To be able to vote, you need 1% of the total community supply (7.500.000)",
       "sidebar": "tutorialSidebar"
     },
+    "Good/Token": {
+      "id": "Good/Token",
+      "title": "Token",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "Good/Tokenomics": {
       "id": "Good/Tokenomics",
       "title": "Tokenomics",
       "description": "Mint 750.000.000 $GOOD at genesis where the following distribution takes place:",
       "sidebar": "tutorialSidebar"
     },
-    "Good/Utilities/AMM": {
-      "id": "Good/Utilities/AMM",
-      "title": "AMM",
-      "description": "Each token project LP creator will be able to select several percentages that will be used to deposit back a percentage of each swap that takes place on a liquidity pool. These percentages are as follow:",
-      "sidebar": "tutorialSidebar"
-    },
-    "Good/Utilities/Community/Contribution Program": {
-      "id": "Good/Utilities/Community/Contribution Program",
-      "title": "Contribution Program",
-      "description": "Although GoSwap is started and run by a team of founders and early conductors, the GoSwap ecosystem is for the majority open source. By offering an allocation to our contribution program, you can help us out and earn $GOOD tokens. You will be able to earn these through looking at the open positions / projects. We often are in need of translators, engineers, brainstorm partners, legislations, new business, moderators and outreachers. Our contribution program will soon be announced and opened, please pay close attention to our official channels.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Good/Utilities/Community/Grants": {
-      "id": "Good/Utilities/Community/Grants",
-      "title": "Grants",
-      "description": "In the near future GoSwap is looking to open up the grants program. Grants will be used to connect upcoming projects that transform the crypto and tech space. We at GoSwap believe in close partnerships and therefore we would like to reach out and help those amazing projects.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Good/Utilities/Community/Liquidity Mining": {
-      "id": "Good/Utilities/Community/Liquidity Mining",
-      "title": "Liquidity Mining",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Good/Utilities/Community/Staking": {
-      "id": "Good/Utilities/Community/Staking",
-      "title": "Staking",
-      "description": "Lock your $GOOD tokens to earn staking rewards in $GOOD, by staking your tokens you remove tokens from the circulating supply for a certain amount of time. To unlock the Governance you have to lock an xxxx amount of $GOOD tokens.",
+    "Good/Utilities": {
+      "id": "Good/Utilities",
+      "title": "Utilities",
+      "description": "hallo",
       "sidebar": "tutorialSidebar"
     },
     "GoTrade": {
@@ -272,70 +132,22 @@
       "description": "Automated bot service management, with Gotrade we offer project owners the possibility to trade on their own project or other projects they like. It’s a bot service that people understand how to work.",
       "sidebar": "tutorialSidebar"
     },
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+    "Introduction": {
+      "id": "Introduction",
+      "title": "Introduction",
+      "description": "GoSwap",
       "sidebar": "tutorialSidebar"
     },
-    "Introduction/Goals": {
-      "id": "Introduction/Goals",
-      "title": "Goals",
-      "description": "",
+    "Solutions/Consumer": {
+      "id": "Solutions/Consumer",
+      "title": "Consumer",
+      "description": "To support our ecosystem and user growth GoSwap is looking into several consumer solutions. These solutions are on and offramp solutions, but also possibilities to create market making solutions such as trading toolsets. These tools are exclusively created for GoSwap, to boost our token, project listings and the portfolio from our users / customers.",
       "sidebar": "tutorialSidebar"
     },
-    "Introduction/GoSwap": {
-      "id": "Introduction/GoSwap",
-      "title": "GoSwap",
-      "description": "We hereby present GoSwap a new and unique market trading platform. We build on web3 alone and are determined to be here for the long-term.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Introduction/Vision": {
-      "id": "Introduction/Vision",
-      "title": "Vision",
-      "description": "Become the biggest LP and liquidity providing swap on the Web3 market, with integrated and unique solutions for VC’s, Web3 projects and retail users.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/about": {
-      "id": "Solutions/about",
-      "title": "about",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/Consumer/On & Offramp Solutions": {
-      "id": "Solutions/Consumer/On & Offramp Solutions",
-      "title": "On & Offramp Solutions",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/Consumer/Trading & Market Making": {
-      "id": "Solutions/Consumer/Trading & Market Making",
-      "title": "Trading & Market Making",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/Crypto/Chain dApps": {
-      "id": "Solutions/Crypto/Chain dApps",
-      "title": "Chain dApps",
-      "description": "Pair Swap",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/Crypto/Onboarding": {
-      "id": "Solutions/Crypto/Onboarding",
-      "title": "Onboarding",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/goals": {
-      "id": "Solutions/goals",
-      "title": "goals",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Solutions/vision": {
-      "id": "Solutions/vision",
-      "title": "vision",
-      "description": "",
+    "Solutions/Crypto": {
+      "id": "Solutions/Crypto",
+      "title": "Crypto",
+      "description": "Chain dApps",
       "sidebar": "tutorialSidebar"
     }
   }

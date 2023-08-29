@@ -20,33 +20,6 @@
           "contentPathLocalized": "/Users/martijnjansen/Documents/projects/docs.goswap.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "Blueprint",
-              "id": "Blueprint",
-              "title": "Blueprint",
-              "description": "Our team at GoSwap.io knows how hard it is to get both technical and non-technical questions answered. Whether you are launching your own token or looking to go crosschain with your project, for everything launched there are tons of technical questions. You like to do it right from the start rather than struggling further down the line. There are a lot of micro processes that are involved. GoSwap would like to help out and make these processes easier, we provide a free service to help those in need out. We have a huge network with trusted partners who are there to help and manage this process for you.",
-              "source": "@site/docs/Blueprint.md",
-              "sourceDirName": ".",
-              "slug": "/Blueprint",
-              "permalink": "/docs/Blueprint",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Blueprint.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "vision",
-                "permalink": "/docs/Solutions/vision"
-              },
-              "next": {
-                "title": "GoTrade",
-                "permalink": "/docs/GoTrade"
-              }
-            },
-            {
               "unversionedId": "Good/Burn plan",
               "id": "Good/Burn plan",
               "title": "Burn plan",
@@ -59,15 +32,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Burn plan.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Liquidity Mining",
-                "permalink": "/docs/Good/Utilities/community/Liquidity Mining"
-              },
-              "next": {
                 "title": "Governance",
                 "permalink": "/docs/Good/Governance"
+              },
+              "next": {
+                "title": "Solutions",
+                "permalink": "/docs/category/solutions"
               }
             },
             {
@@ -83,9 +59,9 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Distribution.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -94,7 +70,7 @@
               },
               "next": {
                 "title": "Utilities",
-                "permalink": "/docs/category/utilities"
+                "permalink": "/docs/Good/Utilities"
               }
             },
             {
@@ -110,15 +86,45 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Governance.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Burn plan",
-                "permalink": "/docs/Good/Burn plan"
+                "title": "Utilities",
+                "permalink": "/docs/Good/Utilities"
               },
               "next": {
-                "title": "Solutions",
-                "permalink": "/docs/category/solutions"
+                "title": "Burn plan",
+                "permalink": "/docs/Good/Burn plan"
+              }
+            },
+            {
+              "unversionedId": "Good/Token",
+              "id": "Good/Token",
+              "title": "Token",
+              "description": "",
+              "source": "@site/docs/Good/Token.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Token",
+              "permalink": "/docs/Good/Token",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Token.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "$GOOD",
+                "permalink": "/docs/category/good"
+              },
+              "next": {
+                "title": "Tokenomics",
+                "permalink": "/docs/Good/Tokenomics"
               }
             },
             {
@@ -134,14 +140,14 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Tokenomics.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "$GOOD",
-                "permalink": "/docs/category/good"
+                "title": "Token",
+                "permalink": "/docs/Good/Token"
               },
               "next": {
                 "title": "Distribution",
@@ -149,40 +155,16 @@
               }
             },
             {
-              "unversionedId": "Good/Utilities/AMM",
-              "id": "Good/Utilities/AMM",
-              "title": "AMM",
-              "description": "Each token project LP creator will be able to select several percentages that will be used to deposit back a percentage of each swap that takes place on a liquidity pool. These percentages are as follow:",
-              "source": "@site/docs/Good/Utilities/AMM.md",
-              "sourceDirName": "Good/Utilities",
-              "slug": "/Good/Utilities/AMM",
-              "permalink": "/docs/Good/Utilities/AMM",
+              "unversionedId": "Good/Utilities",
+              "id": "Good/Utilities",
+              "title": "Utilities",
+              "description": "hallo",
+              "source": "@site/docs/Good/Utilities.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Utilities",
+              "permalink": "/docs/Good/Utilities",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/AMM.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Utilities",
-                "permalink": "/docs/category/utilities"
-              },
-              "next": {
-                "title": "Staking",
-                "permalink": "/docs/Good/Utilities/community/Staking"
-              }
-            },
-            {
-              "unversionedId": "Good/Utilities/community/Contribution Program",
-              "id": "Good/Utilities/community/Contribution Program",
-              "title": "Contribution Program",
-              "description": "Although GoSwap is started and run by a team of founders and early conductors, the GoSwap ecosystem is for the majority open source. By offering an allocation to our contribution program, you can help us out and earn $GOOD tokens. You will be able to earn these through looking at the open positions / projects. We often are in need of translators, engineers, brainstorm partners, legislations, new business, moderators and outreachers. Our contribution program will soon be announced and opened, please pay close attention to our official channels.",
-              "source": "@site/docs/Good/Utilities/community/Contribution Program.md",
-              "sourceDirName": "Good/Utilities/community",
-              "slug": "/Good/Utilities/community/Contribution Program",
-              "permalink": "/docs/Good/Utilities/community/Contribution Program",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/community/Contribution Program.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -191,90 +173,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Grants",
-                "permalink": "/docs/Good/Utilities/community/Grants"
+                "title": "Distribution",
+                "permalink": "/docs/Good/Distribution"
               },
               "next": {
-                "title": "Liquidity Mining",
-                "permalink": "/docs/Good/Utilities/community/Liquidity Mining"
-              }
-            },
-            {
-              "unversionedId": "Good/Utilities/community/Grants",
-              "id": "Good/Utilities/community/Grants",
-              "title": "Grants",
-              "description": "In the near future GoSwap is looking to open up the grants program. Grants will be used to connect upcoming projects that transform the crypto and tech space. We at GoSwap believe in close partnerships and therefore we would like to reach out and help those amazing projects.",
-              "source": "@site/docs/Good/Utilities/community/Grants.md",
-              "sourceDirName": "Good/Utilities/community",
-              "slug": "/Good/Utilities/community/Grants",
-              "permalink": "/docs/Good/Utilities/community/Grants",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/community/Grants.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Staking",
-                "permalink": "/docs/Good/Utilities/community/Staking"
-              },
-              "next": {
-                "title": "Contribution Program",
-                "permalink": "/docs/Good/Utilities/community/Contribution Program"
-              }
-            },
-            {
-              "unversionedId": "Good/Utilities/community/Liquidity Mining",
-              "id": "Good/Utilities/community/Liquidity Mining",
-              "title": "Liquidity Mining",
-              "description": "",
-              "source": "@site/docs/Good/Utilities/community/Liquidity Mining.md",
-              "sourceDirName": "Good/Utilities/community",
-              "slug": "/Good/Utilities/community/Liquidity Mining",
-              "permalink": "/docs/Good/Utilities/community/Liquidity Mining",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/community/Liquidity Mining.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Contribution Program",
-                "permalink": "/docs/Good/Utilities/community/Contribution Program"
-              },
-              "next": {
-                "title": "Burn plan",
-                "permalink": "/docs/Good/Burn plan"
-              }
-            },
-            {
-              "unversionedId": "Good/Utilities/community/Staking",
-              "id": "Good/Utilities/community/Staking",
-              "title": "Staking",
-              "description": "Lock your $GOOD tokens to earn staking rewards in $GOOD, by staking your tokens you remove tokens from the circulating supply for a certain amount of time. To unlock the Governance you have to lock an xxxx amount of $GOOD tokens.",
-              "source": "@site/docs/Good/Utilities/community/Staking.md",
-              "sourceDirName": "Good/Utilities/community",
-              "slug": "/Good/Utilities/community/Staking",
-              "permalink": "/docs/Good/Utilities/community/Staking",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/community/Staking.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "AMM",
-                "permalink": "/docs/Good/Utilities/AMM"
-              },
-              "next": {
-                "title": "Grants",
-                "permalink": "/docs/Good/Utilities/community/Grants"
+                "title": "Governance",
+                "permalink": "/docs/Good/Governance"
               }
             },
             {
@@ -296,21 +200,21 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Blueprint",
-                "permalink": "/docs/Blueprint"
+                "title": "Crypto",
+                "permalink": "/docs/Solutions/Crypto"
               }
             },
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "unversionedId": "Introduction",
+              "id": "Introduction",
+              "title": "Introduction",
+              "description": "GoSwap",
+              "source": "@site/docs/Introduction.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "slug": "/Introduction",
+              "permalink": "/docs/Introduction",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -318,50 +222,22 @@
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Goals",
-                "permalink": "/docs/Introduction/Goals"
-              },
               "next": {
                 "title": "$GOOD",
                 "permalink": "/docs/category/good"
               }
             },
             {
-              "unversionedId": "Introduction/Goals",
-              "id": "Introduction/Goals",
-              "title": "Goals",
-              "description": "",
-              "source": "@site/docs/Introduction/Goals.md",
-              "sourceDirName": "Introduction",
-              "slug": "/Introduction/Goals",
-              "permalink": "/docs/Introduction/Goals",
+              "unversionedId": "Solutions/Consumer",
+              "id": "Solutions/Consumer",
+              "title": "Consumer",
+              "description": "To support our ecosystem and user growth GoSwap is looking into several consumer solutions. These solutions are on and offramp solutions, but also possibilities to create market making solutions such as trading toolsets. These tools are exclusively created for GoSwap, to boost our token, project listings and the portfolio from our users / customers.",
+              "source": "@site/docs/Solutions/Consumer.md",
+              "sourceDirName": "Solutions",
+              "slug": "/Solutions/Consumer",
+              "permalink": "/docs/Solutions/Consumer",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/Goals.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Vision",
-                "permalink": "/docs/Introduction/Vision"
-              },
-              "next": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
-              }
-            },
-            {
-              "unversionedId": "Introduction/GoSwap",
-              "id": "Introduction/GoSwap",
-              "title": "GoSwap",
-              "description": "We hereby present GoSwap a new and unique market trading platform. We build on web3 alone and are determined to be here for the long-term.",
-              "source": "@site/docs/Introduction/GoSwap.md",
-              "sourceDirName": "Introduction",
-              "slug": "/Introduction/GoSwap",
-              "permalink": "/docs/Introduction/GoSwap",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/GoSwap.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -370,207 +246,36 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/category/introduction"
+                "title": "Solutions",
+                "permalink": "/docs/category/solutions"
               },
               "next": {
-                "title": "Vision",
-                "permalink": "/docs/Introduction/Vision"
+                "title": "Crypto",
+                "permalink": "/docs/Solutions/Crypto"
               }
             },
             {
-              "unversionedId": "Introduction/Vision",
-              "id": "Introduction/Vision",
-              "title": "Vision",
-              "description": "Become the biggest LP and liquidity providing swap on the Web3 market, with integrated and unique solutions for VC’s, Web3 projects and retail users.",
-              "source": "@site/docs/Introduction/Vision.md",
-              "sourceDirName": "Introduction",
-              "slug": "/Introduction/Vision",
-              "permalink": "/docs/Introduction/Vision",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/Vision.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "GoSwap",
-                "permalink": "/docs/Introduction/GoSwap"
-              },
-              "next": {
-                "title": "Goals",
-                "permalink": "/docs/Introduction/Goals"
-              }
-            },
-            {
-              "unversionedId": "Solutions/about",
-              "id": "Solutions/about",
-              "title": "about",
-              "description": "",
-              "source": "@site/docs/Solutions/about.md",
+              "unversionedId": "Solutions/Crypto",
+              "id": "Solutions/Crypto",
+              "title": "Crypto",
+              "description": "Chain dApps",
+              "source": "@site/docs/Solutions/Crypto.md",
               "sourceDirName": "Solutions",
-              "slug": "/Solutions/about",
-              "permalink": "/docs/Solutions/about",
+              "slug": "/Solutions/Crypto",
+              "permalink": "/docs/Solutions/Crypto",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/about.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Onboarding",
-                "permalink": "/docs/Solutions/Crypto/Onboarding"
-              },
-              "next": {
-                "title": "goals",
-                "permalink": "/docs/Solutions/goals"
-              }
-            },
-            {
-              "unversionedId": "Solutions/Consumer/On & Offramp Solutions",
-              "id": "Solutions/Consumer/On & Offramp Solutions",
-              "title": "On & Offramp Solutions",
-              "description": "",
-              "source": "@site/docs/Solutions/Consumer/On & Offramp Solutions.md",
-              "sourceDirName": "Solutions/Consumer",
-              "slug": "/Solutions/Consumer/On & Offramp Solutions",
-              "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer/On & Offramp Solutions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Consumer",
-                "permalink": "/docs/category/consumer"
+                "permalink": "/docs/Solutions/Consumer"
               },
               "next": {
-                "title": "Trading & Market Making",
-                "permalink": "/docs/Solutions/Consumer/Trading & Market Making"
-              }
-            },
-            {
-              "unversionedId": "Solutions/Consumer/Trading & Market Making",
-              "id": "Solutions/Consumer/Trading & Market Making",
-              "title": "Trading & Market Making",
-              "description": "",
-              "source": "@site/docs/Solutions/Consumer/Trading & Market Making.md",
-              "sourceDirName": "Solutions/Consumer",
-              "slug": "/Solutions/Consumer/Trading & Market Making",
-              "permalink": "/docs/Solutions/Consumer/Trading & Market Making",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer/Trading & Market Making.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "On & Offramp Solutions",
-                "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions"
-              },
-              "next": {
-                "title": "Crypto",
-                "permalink": "/docs/category/crypto"
-              }
-            },
-            {
-              "unversionedId": "Solutions/Crypto/Chain dApps",
-              "id": "Solutions/Crypto/Chain dApps",
-              "title": "Chain dApps",
-              "description": "Pair Swap",
-              "source": "@site/docs/Solutions/Crypto/Chain dApps.md",
-              "sourceDirName": "Solutions/Crypto",
-              "slug": "/Solutions/Crypto/Chain dApps",
-              "permalink": "/docs/Solutions/Crypto/Chain dApps",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto/Chain dApps.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Crypto",
-                "permalink": "/docs/category/crypto"
-              },
-              "next": {
-                "title": "Onboarding",
-                "permalink": "/docs/Solutions/Crypto/Onboarding"
-              }
-            },
-            {
-              "unversionedId": "Solutions/Crypto/Onboarding",
-              "id": "Solutions/Crypto/Onboarding",
-              "title": "Onboarding",
-              "description": "",
-              "source": "@site/docs/Solutions/Crypto/Onboarding.md",
-              "sourceDirName": "Solutions/Crypto",
-              "slug": "/Solutions/Crypto/Onboarding",
-              "permalink": "/docs/Solutions/Crypto/Onboarding",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto/Onboarding.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Chain dApps",
-                "permalink": "/docs/Solutions/Crypto/Chain dApps"
-              },
-              "next": {
-                "title": "about",
-                "permalink": "/docs/Solutions/about"
-              }
-            },
-            {
-              "unversionedId": "Solutions/goals",
-              "id": "Solutions/goals",
-              "title": "goals",
-              "description": "",
-              "source": "@site/docs/Solutions/goals.md",
-              "sourceDirName": "Solutions",
-              "slug": "/Solutions/goals",
-              "permalink": "/docs/Solutions/goals",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/goals.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "about",
-                "permalink": "/docs/Solutions/about"
-              },
-              "next": {
-                "title": "vision",
-                "permalink": "/docs/Solutions/vision"
-              }
-            },
-            {
-              "unversionedId": "Solutions/vision",
-              "id": "Solutions/vision",
-              "title": "vision",
-              "description": "",
-              "source": "@site/docs/Solutions/vision.md",
-              "sourceDirName": "Solutions",
-              "slug": "/Solutions/vision",
-              "permalink": "/docs/Solutions/vision",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/vision.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "goals",
-                "permalink": "/docs/Solutions/goals"
-              },
-              "next": {
-                "title": "Blueprint",
-                "permalink": "/docs/Blueprint"
+                "title": "GoTrade",
+                "permalink": "/docs/GoTrade"
               }
             }
           ],
@@ -578,34 +283,8 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "category",
-                "label": "Introduction",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Introduction/GoSwap"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Introduction/Vision"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Introduction/Goals"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "GoSwap | Introduction",
-                  "slug": "/category/introduction",
-                  "permalink": "/docs/category/introduction"
-                }
-              },
-              {
                 "type": "doc",
-                "id": "intro"
+                "id": "Introduction"
               },
               {
                 "type": "category",
@@ -615,6 +294,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "Good/Token"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Good/Tokenomics"
                   },
                   {
@@ -622,54 +305,16 @@
                     "id": "Good/Distribution"
                   },
                   {
-                    "type": "category",
-                    "label": "Utilities",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Good/Utilities/AMM"
-                      },
-                      {
-                        "type": "category",
-                        "label": "community",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Good/Utilities/community/Staking"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "Good/Utilities/community/Grants"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "Good/Utilities/community/Contribution Program"
-                          },
-                          {
-                            "type": "doc",
-                            "id": "Good/Utilities/community/Liquidity Mining"
-                          }
-                        ]
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "GoSwap | Consumer Solutions",
-                      "slug": "/category/utilities",
-                      "permalink": "/docs/category/utilities"
-                    }
-                  },
-                  {
                     "type": "doc",
-                    "id": "Good/Burn plan"
+                    "id": "Good/Utilities"
                   },
                   {
                     "type": "doc",
                     "id": "Good/Governance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Good/Burn plan"
                   }
                 ],
                 "link": {
@@ -686,60 +331,12 @@
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "category",
-                    "label": "Consumer",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Solutions/Consumer/On & Offramp Solutions"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Solutions/Consumer/Trading & Market Making"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "GoSwap | Consumer Solutions",
-                      "slug": "/category/consumer",
-                      "permalink": "/docs/category/consumer"
-                    }
-                  },
-                  {
-                    "type": "category",
-                    "label": "Crypto",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Solutions/Crypto/Chain dApps"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Solutions/Crypto/Onboarding"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "GoSwap | Crypto Solutions",
-                      "slug": "/category/crypto",
-                      "permalink": "/docs/category/crypto"
-                    }
+                    "type": "doc",
+                    "id": "Solutions/Consumer"
                   },
                   {
                     "type": "doc",
-                    "id": "Solutions/about"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Solutions/goals"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Solutions/vision"
+                    "id": "Solutions/Crypto"
                   }
                 ],
                 "link": {
@@ -748,10 +345,6 @@
                   "slug": "/category/solutions",
                   "permalink": "/docs/category/solutions"
                 }
-              },
-              {
-                "type": "doc",
-                "id": "Blueprint"
               },
               {
                 "type": "doc",

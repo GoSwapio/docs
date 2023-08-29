@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Onboarding",
-    "permalink": "/docs/Solutions/Crypto/Onboarding"
+    "title": "Crypto",
+    "permalink": "/docs/Solutions/Crypto"
   },
   "next": {
-    "title": "goals",
-    "permalink": "/docs/Solutions/goals"
+    "title": "GoSwap Blueprint",
+    "permalink": "/docs/Blueprint"
   }
 }

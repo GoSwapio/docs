@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 Mint 750.000.000 $GOOD at genesis where the following distribution takes place:

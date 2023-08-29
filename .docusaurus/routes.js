@@ -64,26 +64,8 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '072'),
+    component: ComponentCreator('/docs', '6a8'),
     routes: [
-      {
-        path: '/docs/Blueprint',
-        component: ComponentCreator('/docs/Blueprint', '89b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/consumer',
-        component: ComponentCreator('/docs/category/consumer', 'ff8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/crypto',
-        component: ComponentCreator('/docs/category/crypto', '4bc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/docs/category/good',
         component: ComponentCreator('/docs/category/good', '437'),
@@ -91,20 +73,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/introduction',
-        component: ComponentCreator('/docs/category/introduction', 'd40'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/category/solutions',
         component: ComponentCreator('/docs/category/solutions', '5ad'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/utilities',
-        component: ComponentCreator('/docs/category/utilities', '9d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -127,38 +97,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/Good/Token',
+        component: ComponentCreator('/docs/Good/Token', '8a4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/Good/Tokenomics',
         component: ComponentCreator('/docs/Good/Tokenomics', 'f0a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Good/Utilities/AMM',
-        component: ComponentCreator('/docs/Good/Utilities/AMM', '7d0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Good/Utilities/Community/Contribution Program',
-        component: ComponentCreator('/docs/Good/Utilities/Community/Contribution Program', '3b1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Good/Utilities/Community/Grants',
-        component: ComponentCreator('/docs/Good/Utilities/Community/Grants', 'fb8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Good/Utilities/Community/Liquidity Mining',
-        component: ComponentCreator('/docs/Good/Utilities/Community/Liquidity Mining', 'd2a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Good/Utilities/Community/Staking',
-        component: ComponentCreator('/docs/Good/Utilities/Community/Staking', '863'),
+        path: '/docs/Good/Utilities',
+        component: ComponentCreator('/docs/Good/Utilities', 'a68'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -169,68 +121,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/docs/Introduction',
+        component: ComponentCreator('/docs/Introduction', 'de5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Introduction/Goals',
-        component: ComponentCreator('/docs/Introduction/Goals', 'e47'),
+        path: '/docs/Solutions/Consumer',
+        component: ComponentCreator('/docs/Solutions/Consumer', 'fca'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Introduction/GoSwap',
-        component: ComponentCreator('/docs/Introduction/GoSwap', '2a6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Introduction/Vision',
-        component: ComponentCreator('/docs/Introduction/Vision', '077'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/about',
-        component: ComponentCreator('/docs/Solutions/about', '151'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/Consumer/On & Offramp Solutions',
-        component: ComponentCreator('/docs/Solutions/Consumer/On & Offramp Solutions', 'f0a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/Consumer/Trading & Market Making',
-        component: ComponentCreator('/docs/Solutions/Consumer/Trading & Market Making', '883'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/Crypto/Chain dApps',
-        component: ComponentCreator('/docs/Solutions/Crypto/Chain dApps', '0cc'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/Crypto/Onboarding',
-        component: ComponentCreator('/docs/Solutions/Crypto/Onboarding', '14b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/goals',
-        component: ComponentCreator('/docs/Solutions/goals', '7f7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Solutions/vision',
-        component: ComponentCreator('/docs/Solutions/vision', '4b8'),
+        path: '/docs/Solutions/Crypto',
+        component: ComponentCreator('/docs/Solutions/Crypto', '50a'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

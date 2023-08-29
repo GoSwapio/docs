@@ -5,12 +5,12 @@
   "permalink": "/docs/category/solutions",
   "navigation": {
     "previous": {
-      "title": "Governance",
-      "permalink": "/docs/Good/Governance"
+      "title": "Burn plan",
+      "permalink": "/docs/Good/Burn plan"
     },
     "next": {
       "title": "Consumer",
-      "permalink": "/docs/category/consumer"
+      "permalink": "/docs/Solutions/Consumer"
     }
   }
 }

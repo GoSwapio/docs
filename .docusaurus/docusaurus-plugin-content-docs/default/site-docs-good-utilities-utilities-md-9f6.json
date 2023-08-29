@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Good/Utilities/Utilities",
+  "id": "Good/Utilities/Utilities",
+  "title": "Community",
+  "description": "hallo",
+  "source": "@site/docs/Good/Utilities/Utilities.md",
+  "sourceDirName": "Good/Utilities",
+  "slug": "/Good/Utilities/",
+  "permalink": "/docs/Good/Utilities/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/Utilities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Utilities",
+    "permalink": "/docs/category/utilities"
+  },
+  "next": {
+    "title": "Burn plan",
+    "permalink": "/docs/Good/Burn plan"
+  }
+}
