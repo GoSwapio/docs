@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Solutions/Consumer/Trading & Market Making",
+  "id": "Solutions/Consumer/Trading & Market Making",
+  "title": "Trading & Market Making",
+  "description": "",
+  "source": "@site/docs/Solutions/Consumer/Trading & Market Making.md",
+  "sourceDirName": "Solutions/Consumer",
+  "slug": "/Solutions/Consumer/Trading & Market Making",
+  "permalink": "/docs/Solutions/Consumer/Trading & Market Making",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer/Trading & Market Making.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "On & Offramp Solutions",
+    "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions"
+  },
+  "next": {
+    "title": "Crypto",
+    "permalink": "/docs/category/crypto"
+  }
+}

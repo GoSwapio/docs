@@ -1,0 +1,24 @@
+{
+  "unversionedId": "$good/utilities/amm",
+  "id": "$good/utilities/amm",
+  "title": "amm",
+  "description": "",
+  "source": "@site/docs/$good/utilities/amm.md",
+  "sourceDirName": "$good/utilities",
+  "slug": "/$good/utilities/amm",
+  "permalink": "/docs/$good/utilities/amm",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/$good/utilities/amm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tokenomics",
+    "permalink": "/docs/$good/tokenomics"
+  },
+  "next": {
+    "title": "contribution-program",
+    "permalink": "/docs/$good/utilities/community/contribution-program"
+  }
+}

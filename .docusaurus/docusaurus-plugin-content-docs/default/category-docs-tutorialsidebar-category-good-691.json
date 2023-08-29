@@ -1,0 +1,16 @@
+{
+  "title": "$GOOD",
+  "description": "GoSwap | $GOOD",
+  "slug": "/category/good",
+  "permalink": "/docs/category/good",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Tokenomics",
+      "permalink": "/docs/Good/Tokenomics"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Bleuprint",
+  "id": "Bleuprint",
+  "title": "Bleuprint",
+  "description": "",
+  "source": "@site/docs/Bleuprint.md",
+  "sourceDirName": ".",
+  "slug": "/Bleuprint",
+  "permalink": "/docs/Bleuprint",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Bleuprint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vision",
+    "permalink": "/docs/good/vision"
+  },
+  "next": {
+    "title": "GoTrade",
+    "permalink": "/docs/GoTrade"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "$good/utilities/community/contribution-program",
+  "id": "$good/utilities/community/contribution-program",
+  "title": "contribution-program",
+  "description": "",
+  "source": "@site/docs/$good/utilities/community/contribution-program.md",
+  "sourceDirName": "$good/utilities/community",
+  "slug": "/$good/utilities/community/contribution-program",
+  "permalink": "/docs/$good/utilities/community/contribution-program",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/$good/utilities/community/contribution-program.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amm",
+    "permalink": "/docs/$good/utilities/amm"
+  },
+  "next": {
+    "title": "grants",
+    "permalink": "/docs/$good/utilities/community/grants"
+  }
+}

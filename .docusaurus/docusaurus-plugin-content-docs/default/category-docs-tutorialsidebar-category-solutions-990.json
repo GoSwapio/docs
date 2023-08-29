@@ -1,0 +1,16 @@
+{
+  "title": "Solutions",
+  "description": "GoSwap | Solutions",
+  "slug": "/category/solutions",
+  "permalink": "/docs/category/solutions",
+  "navigation": {
+    "previous": {
+      "title": "Governance",
+      "permalink": "/docs/Good/Governance"
+    },
+    "next": {
+      "title": "Consumer",
+      "permalink": "/docs/category/consumer"
+    }
+  }
+}

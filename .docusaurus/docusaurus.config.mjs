@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "GoSwap.io",
+  "tagline": "GoSwap - Crypto Made Easy",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://docs.goswap.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "goswapio",
+  "projectName": "docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -42,9 +42,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "GoSwap.io",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "GoSwap Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -71,46 +71,62 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Socials",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "X",
+              "to": "https://x.com/goswapio"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Github",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "GoSwap-v1-contracts",
+              "href": "#"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "GoSwap-v1-interface",
+              "href": "#"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "GoSwap-v1-docs",
+              "href": "#"
+            },
+            {
+              "label": "Deployment Addresses",
+              "href": "#"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "Ecosystem",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Home",
+              "to": "https://goswap.io"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "App",
+              "href": "https://app.goswap.io"
+            },
+            {
+              "label": "Farming",
+              "href": "https://app.goswap.io/farming"
+            },
+            {
+              "label": "Staking",
+              "href": "https://app.goswap.io/staking"
+            },
+            {
+              "label": "Blueprint",
+              "href": "https://goswap.io/blueprint"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 GoSwap."
     },
     "prism": {
       "theme": {

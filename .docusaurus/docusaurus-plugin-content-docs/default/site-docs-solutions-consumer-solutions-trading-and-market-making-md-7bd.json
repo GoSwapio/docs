@@ -1,0 +1,24 @@
+{
+  "unversionedId": "solutions/consumer-solutions/trading-and-market-making",
+  "id": "solutions/consumer-solutions/trading-and-market-making",
+  "title": "trading-and-market-making",
+  "description": "",
+  "source": "@site/docs/solutions/consumer-solutions/trading-and-market-making.md",
+  "sourceDirName": "solutions/consumer-solutions",
+  "slug": "/solutions/consumer-solutions/trading-and-market-making",
+  "permalink": "/docs/solutions/consumer-solutions/trading-and-market-making",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/solutions/consumer-solutions/trading-and-market-making.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "on-and-offramp-solutions",
+    "permalink": "/docs/solutions/consumer-solutions/on-and-offramp-solutions"
+  },
+  "next": {
+    "title": "crypto-onboarding",
+    "permalink": "/docs/solutions/crypto-solutions/crypto-onboarding"
+  }
+}

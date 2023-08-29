@@ -1,0 +1,27 @@
+{
+  "unversionedId": "good/utilities/community/staking",
+  "id": "good/utilities/community/staking",
+  "title": "staking",
+  "description": "Support our ecosystem by staking liquidity. By adding liquidity to our pools our token will increase in value. By doing so you will lock liquidity for a short / medium / long amount of time which will in return grant you several $GOOD rewards.",
+  "source": "@site/docs/good/utilities/community/staking.md",
+  "sourceDirName": "good/utilities/community",
+  "slug": "/good/utilities/community/staking",
+  "permalink": "/docs/good/utilities/community/staking",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/good/utilities/community/staking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amm",
+    "permalink": "/docs/good/utilities/amm"
+  },
+  "next": {
+    "title": "Liquidity Mining",
+    "permalink": "/docs/good/utilities/community/Liquidity Mining"
+  }
+}

@@ -8,61 +8,146 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Introduction/GoSwap",
           "docs": [
+            {
+              "id": "Blueprint",
+              "path": "/docs/Blueprint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Burn plan",
+              "path": "/docs/Good/Burn plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Distribution",
+              "path": "/docs/Good/Distribution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Governance",
+              "path": "/docs/Good/Governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Tokenomics",
+              "path": "/docs/Good/Tokenomics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Utilities/AMM",
+              "path": "/docs/Good/Utilities/AMM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Utilities/community/Contribution Program",
+              "path": "/docs/Good/Utilities/community/Contribution Program",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Utilities/community/Grants",
+              "path": "/docs/Good/Utilities/community/Grants",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Utilities/community/Liquidity Mining",
+              "path": "/docs/Good/Utilities/community/Liquidity Mining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Good/Utilities/community/Staking",
+              "path": "/docs/Good/Utilities/community/Staking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GoTrade",
+              "path": "/docs/GoTrade",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "Introduction/Goals",
+              "path": "/docs/Introduction/Goals",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "Introduction/GoSwap",
+              "path": "/docs/Introduction/GoSwap",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "Introduction/Vision",
+              "path": "/docs/Introduction/Vision",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "Solutions/about",
+              "path": "/docs/Solutions/about",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "Solutions/Consumer/On & Offramp Solutions",
+              "path": "/docs/Solutions/Consumer/On & Offramp Solutions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "Solutions/Consumer/Trading & Market Making",
+              "path": "/docs/Solutions/Consumer/Trading & Market Making",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "Solutions/Crypto/Chain dApps",
+              "path": "/docs/Solutions/Crypto/Chain dApps",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "Solutions/Crypto/Onboarding",
+              "path": "/docs/Solutions/Crypto/Onboarding",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "Solutions/goals",
+              "path": "/docs/Solutions/goals",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "Solutions/vision",
+              "path": "/docs/Solutions/vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/introduction",
+              "path": "/docs/category/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/good",
+              "path": "/docs/category/good",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/utilities",
+              "path": "/docs/category/utilities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/solutions",
+              "path": "/docs/category/solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/consumer",
+              "path": "/docs/category/consumer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/crypto",
+              "path": "/docs/category/crypto",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +155,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/category/introduction",
+                "label": "Introduction"
               }
             }
           }

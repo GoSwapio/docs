@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Good/Utilities/AMM",
+  "id": "Good/Utilities/AMM",
+  "title": "AMM",
+  "description": "Each token project LP creator will be able to select several percentages that will be used to deposit back a percentage of each swap that takes place on a liquidity pool. These percentages are as follow:",
+  "source": "@site/docs/Good/Utilities/AMM.md",
+  "sourceDirName": "Good/Utilities",
+  "slug": "/Good/Utilities/AMM",
+  "permalink": "/docs/Good/Utilities/AMM",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/AMM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Utilities",
+    "permalink": "/docs/category/utilities"
+  },
+  "next": {
+    "title": "Staking",
+    "permalink": "/docs/Good/Utilities/community/Staking"
+  }
+}

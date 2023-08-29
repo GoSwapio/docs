@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Introduction copy/vision",
+  "id": "Introduction copy/vision",
+  "title": "vision",
+  "description": "",
+  "source": "@site/docs/Introduction copy/vision.md",
+  "sourceDirName": "Introduction copy",
+  "slug": "/Introduction copy/vision",
+  "permalink": "/docs/Introduction copy/vision",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction copy/vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "goals",
+    "permalink": "/docs/Introduction copy/goals"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

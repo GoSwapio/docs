@@ -1,0 +1,24 @@
+{
+  "unversionedId": "good/utilities/community/grants",
+  "id": "good/utilities/community/grants",
+  "title": "grants",
+  "description": "",
+  "source": "@site/docs/good/utilities/community/grants.md",
+  "sourceDirName": "good/utilities/community",
+  "slug": "/good/utilities/community/grants",
+  "permalink": "/docs/good/utilities/community/grants",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/good/utilities/community/grants.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contribution-program",
+    "permalink": "/docs/good/utilities/community/contribution-program"
+  },
+  "next": {
+    "title": "Blueprint",
+    "permalink": "/docs/Blueprint"
+  }
+}

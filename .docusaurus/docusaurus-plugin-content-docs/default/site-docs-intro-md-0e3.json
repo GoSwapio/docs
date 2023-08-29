@@ -16,8 +16,12 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Goals",
+    "permalink": "/docs/Introduction/Goals"
+  },
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "$GOOD",
+    "permalink": "/docs/category/good"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Solutions/Crypto/goswap-chain-dapps",
+  "id": "Solutions/Crypto/goswap-chain-dapps",
+  "title": "goswap-chain-dapps",
+  "description": "Pair Swap",
+  "source": "@site/docs/Solutions/Crypto/goswap-chain-dapps.md",
+  "sourceDirName": "Solutions/Crypto",
+  "slug": "/Solutions/Crypto/goswap-chain-dapps",
+  "permalink": "/docs/Solutions/Crypto/goswap-chain-dapps",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto/goswap-chain-dapps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding",
+    "permalink": "/docs/Solutions/Crypto/Onboarding"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/docs/Solutions/Crypto/intro"
+  }
+}

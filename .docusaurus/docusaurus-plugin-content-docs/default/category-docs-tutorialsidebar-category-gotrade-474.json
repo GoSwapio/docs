@@ -1,0 +1,16 @@
+{
+  "title": "GoTrade",
+  "description": "GoSwap | GoTrade",
+  "slug": "/category/gotrade",
+  "permalink": "/docs/category/gotrade",
+  "navigation": {
+    "previous": {
+      "title": "intro",
+      "permalink": "/docs/burn/intro"
+    },
+    "next": {
+      "title": "GoTrade",
+      "permalink": "/docs/gotrade/"
+    }
+  }
+}

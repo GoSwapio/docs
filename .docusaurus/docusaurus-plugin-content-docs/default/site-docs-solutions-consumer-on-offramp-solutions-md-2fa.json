@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Solutions/Consumer/On & Offramp Solutions",
+  "id": "Solutions/Consumer/On & Offramp Solutions",
+  "title": "On & Offramp Solutions",
+  "description": "",
+  "source": "@site/docs/Solutions/Consumer/On & Offramp Solutions.md",
+  "sourceDirName": "Solutions/Consumer",
+  "slug": "/Solutions/Consumer/On & Offramp Solutions",
+  "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer/On & Offramp Solutions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consumer",
+    "permalink": "/docs/category/consumer"
+  },
+  "next": {
+    "title": "Trading & Market Making",
+    "permalink": "/docs/Solutions/Consumer/Trading & Market Making"
+  }
+}

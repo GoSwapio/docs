@@ -1,0 +1,16 @@
+{
+  "title": "Burn",
+  "description": "GoSwap | Burn",
+  "slug": "/category/burn",
+  "permalink": "/docs/category/burn",
+  "navigation": {
+    "previous": {
+      "title": "Goals",
+      "permalink": "/docs/Introduction/Goals"
+    },
+    "next": {
+      "title": "Burn",
+      "permalink": "/docs/burn/"
+    }
+  }
+}

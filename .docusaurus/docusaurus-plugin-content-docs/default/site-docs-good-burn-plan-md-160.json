@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Good/Burn plan",
+  "id": "Good/Burn plan",
+  "title": "Burn plan",
+  "description": "Once 4 years have passed, 2% of the revenue generating supply will be burned each year. The burn distribution will be calculated as follow:",
+  "source": "@site/docs/Good/Burn plan.md",
+  "sourceDirName": "Good",
+  "slug": "/Good/Burn plan",
+  "permalink": "/docs/Good/Burn plan",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Burn plan.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Liquidity Mining",
+    "permalink": "/docs/Good/Utilities/community/Liquidity Mining"
+  },
+  "next": {
+    "title": "Governance",
+    "permalink": "/docs/Good/Governance"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Solutions",
+  "description": "GoSwap | Solutions",
+  "slug": "/category/solutions-2",
+  "permalink": "/docs/category/solutions-2",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "about",
+      "permalink": "/docs/solutions/about"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Utilities",
+  "description": "GoSwap | Consumer Solutions",
+  "slug": "/category/utilities",
+  "permalink": "/docs/category/utilities",
+  "navigation": {
+    "previous": {
+      "title": "Distribution",
+      "permalink": "/docs/Good/Distribution"
+    },
+    "next": {
+      "title": "AMM",
+      "permalink": "/docs/Good/Utilities/AMM"
+    }
+  }
+}
