@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Good/Utilities/Community/Liquidity Mining",
+  "id": "Good/Utilities/Community/Liquidity Mining",
+  "title": "Liquidity Mining",
+  "description": "",
+  "source": "@site/docs/Good/Utilities/Community/Liquidity Mining.md",
+  "sourceDirName": "Good/Utilities/Community",
+  "slug": "/Good/Utilities/Community/Liquidity Mining",
+  "permalink": "/docs/Good/Utilities/Community/Liquidity Mining",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/Community/Liquidity Mining.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contribution Program",
+    "permalink": "/docs/Good/Utilities/Community/Contribution Program"
+  },
+  "next": {
+    "title": "Burn plan",
+    "permalink": "/docs/Good/Burn plan"
+  }
+}

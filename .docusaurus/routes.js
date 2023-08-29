@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '1d0'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '074'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'c0f'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'dd7'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'c74'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '53d'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '3c8'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '598'),
     exact: true
@@ -99,7 +64,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'cd5'),
+    component: ComponentCreator('/docs', '072'),
     routes: [
       {
         path: '/docs/Blueprint',
@@ -174,26 +139,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Good/Utilities/community/Contribution Program',
-        component: ComponentCreator('/docs/Good/Utilities/community/Contribution Program', '827'),
+        path: '/docs/Good/Utilities/Community/Contribution Program',
+        component: ComponentCreator('/docs/Good/Utilities/Community/Contribution Program', '3b1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Good/Utilities/community/Grants',
-        component: ComponentCreator('/docs/Good/Utilities/community/Grants', 'b1e'),
+        path: '/docs/Good/Utilities/Community/Grants',
+        component: ComponentCreator('/docs/Good/Utilities/Community/Grants', 'fb8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Good/Utilities/community/Liquidity Mining',
-        component: ComponentCreator('/docs/Good/Utilities/community/Liquidity Mining', 'cf1'),
+        path: '/docs/Good/Utilities/Community/Liquidity Mining',
+        component: ComponentCreator('/docs/Good/Utilities/Community/Liquidity Mining', 'd2a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Good/Utilities/community/Staking',
-        component: ComponentCreator('/docs/Good/Utilities/community/Staking', 'ac6'),
+        path: '/docs/Good/Utilities/Community/Staking',
+        component: ComponentCreator('/docs/Good/Utilities/Community/Staking', '863'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

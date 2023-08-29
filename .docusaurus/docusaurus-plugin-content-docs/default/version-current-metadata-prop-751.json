@@ -74,33 +74,33 @@
               },
               {
                 "type": "category",
-                "label": "community",
+                "label": "Community",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
                     "label": "Staking",
-                    "href": "/docs/Good/Utilities/community/Staking",
-                    "docId": "Good/Utilities/community/Staking"
+                    "href": "/docs/Good/Utilities/Community/Staking",
+                    "docId": "Good/Utilities/Community/Staking"
                   },
                   {
                     "type": "link",
                     "label": "Grants",
-                    "href": "/docs/Good/Utilities/community/Grants",
-                    "docId": "Good/Utilities/community/Grants"
+                    "href": "/docs/Good/Utilities/Community/Grants",
+                    "docId": "Good/Utilities/Community/Grants"
                   },
                   {
                     "type": "link",
                     "label": "Contribution Program",
-                    "href": "/docs/Good/Utilities/community/Contribution Program",
-                    "docId": "Good/Utilities/community/Contribution Program"
+                    "href": "/docs/Good/Utilities/Community/Contribution Program",
+                    "docId": "Good/Utilities/Community/Contribution Program"
                   },
                   {
                     "type": "link",
                     "label": "Liquidity Mining",
-                    "href": "/docs/Good/Utilities/community/Liquidity Mining",
-                    "docId": "Good/Utilities/community/Liquidity Mining"
+                    "href": "/docs/Good/Utilities/Community/Liquidity Mining",
+                    "docId": "Good/Utilities/Community/Liquidity Mining"
                   }
                 ]
               }
@@ -242,26 +242,26 @@
       "description": "Each token project LP creator will be able to select several percentages that will be used to deposit back a percentage of each swap that takes place on a liquidity pool. These percentages are as follow:",
       "sidebar": "tutorialSidebar"
     },
-    "Good/Utilities/community/Contribution Program": {
-      "id": "Good/Utilities/community/Contribution Program",
+    "Good/Utilities/Community/Contribution Program": {
+      "id": "Good/Utilities/Community/Contribution Program",
       "title": "Contribution Program",
       "description": "Although GoSwap is started and run by a team of founders and early conductors, the GoSwap ecosystem is for the majority open source. By offering an allocation to our contribution program, you can help us out and earn $GOOD tokens. You will be able to earn these through looking at the open positions / projects. We often are in need of translators, engineers, brainstorm partners, legislations, new business, moderators and outreachers. Our contribution program will soon be announced and opened, please pay close attention to our official channels.",
       "sidebar": "tutorialSidebar"
     },
-    "Good/Utilities/community/Grants": {
-      "id": "Good/Utilities/community/Grants",
+    "Good/Utilities/Community/Grants": {
+      "id": "Good/Utilities/Community/Grants",
       "title": "Grants",
       "description": "In the near future GoSwap is looking to open up the grants program. Grants will be used to connect upcoming projects that transform the crypto and tech space. We at GoSwap believe in close partnerships and therefore we would like to reach out and help those amazing projects.",
       "sidebar": "tutorialSidebar"
     },
-    "Good/Utilities/community/Liquidity Mining": {
-      "id": "Good/Utilities/community/Liquidity Mining",
+    "Good/Utilities/Community/Liquidity Mining": {
+      "id": "Good/Utilities/Community/Liquidity Mining",
       "title": "Liquidity Mining",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Good/Utilities/community/Staking": {
-      "id": "Good/Utilities/community/Staking",
+    "Good/Utilities/Community/Staking": {
+      "id": "Good/Utilities/Community/Staking",
       "title": "Staking",
       "description": "Lock your $GOOD tokens to earn staking rewards in $GOOD, by staking your tokens you remove tokens from the circulating supply for a certain amount of time. To unlock the Governance you have to lock an xxxx amount of $GOOD tokens.",
       "sidebar": "tutorialSidebar"
