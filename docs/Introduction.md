@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Ecosystem overview
 
 In the ever-evolving world of decentralized finance (DeFi), GoSwap.io has emerged as a prominent player, spearheading innovation through its decentralized exchange (DEX) and a suite of products designed to foster interoperability and growth within the blockchain ecosystem. At the heart of this thriving ecosystem lies the $GOOD token, the native cryptocurrency that powers and unifies the GoSwap platform. In this article, we will explore the myriad functionalities of the $GOOD token, its role within the GoSwap ecosystem, and its potential impact on the DeFi landscape.
 
