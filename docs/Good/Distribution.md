@@ -10,9 +10,7 @@ Cryptocurrency projects often revolve around the principles of decentralization 
 
 With a total supply of 750,000,000 tokens, $GOOD's distribution takes on a community-centric approach, thanks to the GoSwap Governance Group.
 
-- **Community (60%)**: A substantial portion, amounting to 450,000,000 $GOOD, is earmarked for the community. Over a span of four years, 28,125,000 tokens per quarter will be released, all subject to the decisions of the GoSwap Governance Group. This gradual release ensures ongoing community engagement.
-
-- **Ecosystem Dripping (40%)**: To nurture the ecosystem further, 40% of the total supply (300,000,000 $GOOD) is allocated for various purposes, all under the watchful eye of the GoSwap Governance Group. These tokens are divided as follows:
+- **Community (60%)**: A substantial portion, amounting to 450,000,000 $GOOD, is earmarked for the community. Over a span of four years, 28,125,000 tokens per quarter will be released, all subject to the decisions of the GoSwap Governance Group. This gradual release ensures ongoing community engagement. These tokens are divided as follows:
 
     - **Liquidity Mining (10%)**: Each quarter, 4,687,500 $GOOD will be dedicated to liquidity mining, driven by the decisions of the governance committee.
 
@@ -24,9 +22,9 @@ With a total supply of 750,000,000 tokens, $GOOD's distribution takes on a commu
 
     - **Governance (5%)**: To empower the community, 2,343,750 $GOOD per quarter will be used for governance purposes, ensuring that the committee reflects the desires of $GOOD holders.
 
-- **Airdrops (5%)**: A unique aspect of $GOOD's tokenomics is the airdrop strategy. Over four quarters, a cumulative 5% of the total supply will be airdropped to users who have engaged with the platform, as determined by the GoSwap Governance Group.
+    - **Airdrops (5%)**: A unique aspect of $GOOD's tokenomics is the airdrop strategy. Over four quarters, a cumulative 5% of the total supply will be airdropped to users who have engaged with the platform, as determined by the GoSwap Governance Group.
 
-- **Project Incentives (10%)**: During the first year, projects and users creating liquidity pools exceeding $20,000 in value will receive a 10% allocation of $GOOD, subject to governance committee approval.
+    - **Project Incentives (10%)**: During the first year, projects and users creating liquidity pools exceeding $20,000 in value will receive a 10% allocation of $GOOD, equal to 4,687,500 per quarter, subject to governance committee approval.
 
 - **Team and Future Employees (10%)**: A total of 75,000,000 $GOOD, equivalent to 10% of the total supply, is allocated to the team and future employees. This allocation adheres to a structured vesting schedule, ensuring alignment with the community's vision.
 
