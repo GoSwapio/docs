@@ -18,9 +18,10 @@ Total supply is 750.000.000 $GOOD:
 -   0.5% Airdrop only forth quarter to all users that have ever done a swap, created LP or hold tokens.
 -   10% Allocation only first year to all projects and users that creating LP bigger then 20,000 USD in value ($GOOD)
 
+
 **10% Team & Future employees =  75.000.000 $GOOD**
-Founders vesting unlocks over the course of 1 year (1% per member = 7.500.000 $GOOD, 1x 6 months, first half at genesis)
-Founders & Employees that continue working with GoSwap will unlock further vesting over another 3 years based on their effort and commitment, this vesting will be another 3% per founder / employee.
+1)Founders vesting unlocks over the course of 1 year (1% per member = 7.500.000 $GOOD, 1x 6 months, first half at genesis)
+2) Founders & Employees that continue working with GoSwap will unlock further vesting over another 3 years based on their effort and commitment, this vesting will be another 3% per founder / employee.
 Additional team & future employees vesting unlocks over the course of 4 years
 
 **5% VCs and Investors = 37.500.000 $GOOD**
