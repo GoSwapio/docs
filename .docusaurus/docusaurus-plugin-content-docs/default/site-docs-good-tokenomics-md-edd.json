@@ -2,7 +2,7 @@
   "unversionedId": "Good/Tokenomics",
   "id": "Good/Tokenomics",
   "title": "Tokenomics",
-  "description": "Mint 750.000.000 $GOOD at genesis where the following distribution takes place:",
+  "description": "Token Allocation & Usage Summary:",
   "source": "@site/docs/Good/Tokenomics.md",
   "sourceDirName": "Good",
   "slug": "/Good/Tokenomics",

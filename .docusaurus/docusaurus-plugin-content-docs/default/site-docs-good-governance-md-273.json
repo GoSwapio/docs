@@ -1,8 +1,8 @@
 {
   "unversionedId": "Good/Governance",
   "id": "Good/Governance",
-  "title": "Governance",
-  "description": "To be able to vote, you need 1% of the total community supply (7.500.000)",
+  "title": "GoSwap Governance Structure",
+  "description": "Introduction",
   "source": "@site/docs/Good/Governance.md",
   "sourceDirName": "Good",
   "slug": "/Good/Governance",

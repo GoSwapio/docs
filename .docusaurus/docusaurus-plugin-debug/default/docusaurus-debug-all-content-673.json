@@ -20,6 +20,33 @@
           "contentPathLocalized": "/Users/martijnjansen/Documents/projects/docs.goswap.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "Ecosystem overview",
+              "id": "Ecosystem overview",
+              "title": "Ecosystem overview",
+              "description": "In the ever-evolving world of decentralized finance (DeFi), GoSwap.io has emerged as a prominent player, spearheading innovation through its decentralized exchange (DEX) and a suite of products designed to foster interoperability and growth within the blockchain ecosystem. At the heart of this thriving ecosystem lies the $GOOD token, the native cryptocurrency that powers and unifies the GoSwap platform. In this article, we will explore the myriad functionalities of the $GOOD token, its role within the GoSwap ecosystem, and its potential impact on the DeFi landscape.",
+              "source": "@site/docs/Ecosystem overview.md",
+              "sourceDirName": ".",
+              "slug": "/Ecosystem overview",
+              "permalink": "/docs/Ecosystem overview",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ecosystem overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/docs/Intro"
+              },
+              "next": {
+                "title": "$GOOD",
+                "permalink": "/docs/category/good"
+              }
+            },
+            {
               "unversionedId": "Good/Burn plan",
               "id": "Good/Burn plan",
               "title": "Burn plan",
@@ -38,7 +65,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Governance",
+                "title": "GoSwap Governance Structure",
                 "permalink": "/docs/Good/Governance"
               },
               "next": {
@@ -50,7 +77,7 @@
               "unversionedId": "Good/Distribution",
               "id": "Good/Distribution",
               "title": "Distribution",
-              "description": "Total supply is 750.000.000 $GOOD:",
+              "description": "Unlocking the Potential of $GOOD: GoSwap's Tokenomics under Community Governance",
               "source": "@site/docs/Good/Distribution.md",
               "sourceDirName": "Good",
               "slug": "/Good/Distribution",
@@ -76,8 +103,8 @@
             {
               "unversionedId": "Good/Governance",
               "id": "Good/Governance",
-              "title": "Governance",
-              "description": "To be able to vote, you need 1% of the total community supply (7.500.000)",
+              "title": "GoSwap Governance Structure",
+              "description": "Introduction",
               "source": "@site/docs/Good/Governance.md",
               "sourceDirName": "Good",
               "slug": "/Good/Governance",
@@ -104,7 +131,7 @@
               "unversionedId": "Good/Token",
               "id": "Good/Token",
               "title": "Token",
-              "description": "",
+              "description": "Title Fueling the GoSwap Ecosystem",
               "source": "@site/docs/Good/Token.md",
               "sourceDirName": "Good",
               "slug": "/Good/Token",
@@ -131,7 +158,7 @@
               "unversionedId": "Good/Tokenomics",
               "id": "Good/Tokenomics",
               "title": "Tokenomics",
-              "description": "Mint 750.000.000 $GOOD at genesis where the following distribution takes place:",
+              "description": "Token Allocation & Usage Summary:",
               "source": "@site/docs/Good/Tokenomics.md",
               "sourceDirName": "Good",
               "slug": "/Good/Tokenomics",
@@ -177,7 +204,7 @@
                 "permalink": "/docs/Good/Distribution"
               },
               "next": {
-                "title": "Governance",
+                "title": "GoSwap Governance Structure",
                 "permalink": "/docs/Good/Governance"
               }
             },
@@ -185,7 +212,7 @@
               "unversionedId": "GoTrade",
               "id": "GoTrade",
               "title": "GoTrade",
-              "description": "Automated bot service management, with Gotrade we offer project owners the possibility to trade on their own project or other projects they like. It’s a bot service that people understand how to work.",
+              "description": "Title Revolutionizing Cryptocurrency Trading with $GOOD Token",
               "source": "@site/docs/GoTrade.md",
               "sourceDirName": ".",
               "slug": "/GoTrade",
@@ -205,16 +232,16 @@
               }
             },
             {
-              "unversionedId": "Introduction",
-              "id": "Introduction",
-              "title": "Introduction",
-              "description": "GoSwap",
-              "source": "@site/docs/Introduction.md",
+              "unversionedId": "Intro",
+              "id": "Intro",
+              "title": "Intro",
+              "description": "Introducing GoSwap DEX, a trailblazing decentralized exchange that embodies our commitment to making cryptocurrency accessible to all. Our mission is to simplify the crypto landscape, providing a user-friendly platform that empowers both seasoned enthusiasts and newcomers alike.",
+              "source": "@site/docs/Intro.md",
               "sourceDirName": ".",
-              "slug": "/Introduction",
-              "permalink": "/docs/Introduction",
+              "slug": "/Intro",
+              "permalink": "/docs/Intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -223,8 +250,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "$GOOD",
-                "permalink": "/docs/category/good"
+                "title": "Ecosystem overview",
+                "permalink": "/docs/Ecosystem overview"
               }
             },
             {
@@ -284,7 +311,11 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "Introduction"
+                "id": "Intro"
+              },
+              {
+                "type": "doc",
+                "id": "Ecosystem overview"
               },
               {
                 "type": "category",

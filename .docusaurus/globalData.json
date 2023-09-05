@@ -8,8 +8,13 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Introduction",
+          "mainDocId": "Intro",
           "docs": [
+            {
+              "id": "Ecosystem overview",
+              "path": "/docs/Ecosystem overview",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "Good/Burn plan",
               "path": "/docs/Good/Burn plan",
@@ -46,8 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Introduction",
-              "path": "/docs/Introduction",
+              "id": "Intro",
+              "path": "/docs/Intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -75,8 +80,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Introduction",
-                "label": "Introduction"
+                "path": "/docs/Intro",
+                "label": "Intro"
               }
             }
           }

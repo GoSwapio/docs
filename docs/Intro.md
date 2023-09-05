@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 **Introducing GoSwap DEX, a trailblazing decentralized exchange that embodies our commitment to making cryptocurrency accessible to all. Our mission is to simplify the crypto landscape, providing a user-friendly platform that empowers both seasoned enthusiasts and newcomers alike.**
 
 As a chain-agnostic DEX, we ensure inclusivity by facilitating seamless swaps across various blockchain networks. While our initial launch is on BASE, our ultimate goal is to serve the broader crypto community, fostering interoperability and choice. GoSwap does not use a market maker but introduces a unique system where liquidity pools are automatically created and funded by returning a percentage of each swap to the liquidity pool. This principle is also called an AMM, Automated Market Maker. This innovative approach allows us to provide liquidity without relying on traditional market makers, ensuring a more decentralized and community-driven ecosystem.

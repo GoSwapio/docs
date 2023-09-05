@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '1d0'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '074'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'c0f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'dd7'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'c74'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '53d'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '3c8'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '598'),
     exact: true
@@ -64,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6a8'),
+    component: ComponentCreator('/docs', '0a7'),
     routes: [
       {
         path: '/docs/category/good',
@@ -75,6 +110,12 @@ export default [
       {
         path: '/docs/category/solutions',
         component: ComponentCreator('/docs/category/solutions', '5ad'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Ecosystem overview',
+        component: ComponentCreator('/docs/Ecosystem overview', 'fa1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -121,8 +162,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Introduction',
-        component: ComponentCreator('/docs/Introduction', 'de5'),
+        path: '/docs/Intro',
+        component: ComponentCreator('/docs/Intro', '1f0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

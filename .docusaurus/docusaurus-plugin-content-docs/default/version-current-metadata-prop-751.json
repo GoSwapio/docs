@@ -11,9 +11,15 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Introduction",
-        "href": "/docs/Introduction",
-        "docId": "Introduction"
+        "label": "Intro",
+        "href": "/docs/Intro",
+        "docId": "Intro"
+      },
+      {
+        "type": "link",
+        "label": "Ecosystem overview",
+        "href": "/docs/Ecosystem overview",
+        "docId": "Ecosystem overview"
       },
       {
         "type": "category",
@@ -47,7 +53,7 @@
           },
           {
             "type": "link",
-            "label": "Governance",
+            "label": "GoSwap Governance Structure",
             "href": "/docs/Good/Governance",
             "docId": "Good/Governance"
           },
@@ -90,6 +96,12 @@
     ]
   },
   "docs": {
+    "Ecosystem overview": {
+      "id": "Ecosystem overview",
+      "title": "Ecosystem overview",
+      "description": "In the ever-evolving world of decentralized finance (DeFi), GoSwap.io has emerged as a prominent player, spearheading innovation through its decentralized exchange (DEX) and a suite of products designed to foster interoperability and growth within the blockchain ecosystem. At the heart of this thriving ecosystem lies the $GOOD token, the native cryptocurrency that powers and unifies the GoSwap platform. In this article, we will explore the myriad functionalities of the $GOOD token, its role within the GoSwap ecosystem, and its potential impact on the DeFi landscape.",
+      "sidebar": "tutorialSidebar"
+    },
     "Good/Burn plan": {
       "id": "Good/Burn plan",
       "title": "Burn plan",
@@ -99,25 +111,25 @@
     "Good/Distribution": {
       "id": "Good/Distribution",
       "title": "Distribution",
-      "description": "Total supply is 750.000.000 $GOOD:",
+      "description": "Unlocking the Potential of $GOOD: GoSwap's Tokenomics under Community Governance",
       "sidebar": "tutorialSidebar"
     },
     "Good/Governance": {
       "id": "Good/Governance",
-      "title": "Governance",
-      "description": "To be able to vote, you need 1% of the total community supply (7.500.000)",
+      "title": "GoSwap Governance Structure",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Good/Token": {
       "id": "Good/Token",
       "title": "Token",
-      "description": "",
+      "description": "Title Fueling the GoSwap Ecosystem",
       "sidebar": "tutorialSidebar"
     },
     "Good/Tokenomics": {
       "id": "Good/Tokenomics",
       "title": "Tokenomics",
-      "description": "Mint 750.000.000 $GOOD at genesis where the following distribution takes place:",
+      "description": "Token Allocation & Usage Summary:",
       "sidebar": "tutorialSidebar"
     },
     "Good/Utilities": {
@@ -129,13 +141,13 @@
     "GoTrade": {
       "id": "GoTrade",
       "title": "GoTrade",
-      "description": "Automated bot service management, with Gotrade we offer project owners the possibility to trade on their own project or other projects they like. It’s a bot service that people understand how to work.",
+      "description": "Title Revolutionizing Cryptocurrency Trading with $GOOD Token",
       "sidebar": "tutorialSidebar"
     },
-    "Introduction": {
-      "id": "Introduction",
-      "title": "Introduction",
-      "description": "GoSwap",
+    "Intro": {
+      "id": "Intro",
+      "title": "Intro",
+      "description": "Introducing GoSwap DEX, a trailblazing decentralized exchange that embodies our commitment to making cryptocurrency accessible to all. Our mission is to simplify the crypto landscape, providing a user-friendly platform that empowers both seasoned enthusiasts and newcomers alike.",
       "sidebar": "tutorialSidebar"
     },
     "Solutions/Consumer": {
