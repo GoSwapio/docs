@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Good/Utilities/Community/Grants",
+  "id": "Good/Utilities/Community/Grants",
+  "title": "Grants",
+  "description": "In the near future GoSwap is looking to open up the grants program. Grants will be used to connect upcoming projects that transform the crypto and tech space. We at GoSwap believe in close partnerships and therefore we would like to reach out and help those amazing projects.",
+  "source": "@site/docs/Good/Utilities/Community/Grants.md",
+  "sourceDirName": "Good/Utilities/Community",
+  "slug": "/Good/Utilities/Community/Grants",
+  "permalink": "/docs/Good/Utilities/Community/Grants",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities/Community/Grants.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staking",
+    "permalink": "/docs/Good/Utilities/Community/Staking"
+  },
+  "next": {
+    "title": "Contribution Program",
+    "permalink": "/docs/Good/Utilities/Community/Contribution Program"
+  }
+}

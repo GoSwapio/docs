@@ -20,39 +20,43 @@
           "contentPathLocalized": "/Users/martijnjansen/Documents/projects/docs.goswap.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "unversionedId": "Ecosystem overview",
+              "id": "Ecosystem overview",
+              "title": "Ecosystem overview",
+              "description": "In the ever-evolving world of decentralized finance (DeFi), GoSwap.io has emerged as a prominent player, spearheading innovation through its decentralized exchange (DEX) and a suite of products designed to foster interoperability and growth within the blockchain ecosystem. At the heart of this thriving ecosystem lies the $GOOD token, the native cryptocurrency that powers and unifies the GoSwap platform. In this article, we will explore the myriad functionalities of the $GOOD token, its role within the GoSwap ecosystem, and its potential impact on the DeFi landscape.",
+              "source": "@site/docs/Ecosystem overview.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "slug": "/Ecosystem overview",
+              "permalink": "/docs/Ecosystem overview",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ecosystem overview.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/docs/Intro"
+              },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "$GOOD",
+                "permalink": "/docs/category/good"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "unversionedId": "Good/Burn plan",
+              "id": "Good/Burn plan",
+              "title": "Burn plan",
+              "description": "Once 4 years have passed, 2% of the revenue generating supply will be burned each year. The burn distribution will be calculated as follow:",
+              "source": "@site/docs/Good/Burn plan.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Burn plan",
+              "permalink": "/docs/Good/Burn plan",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Burn plan.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -61,25 +65,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "GoSwap Governance Structure",
+                "permalink": "/docs/Good/Governance"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "Solutions",
+                "permalink": "/docs/category/solutions"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "unversionedId": "Good/Distribution",
+              "id": "Good/Distribution",
+              "title": "Distribution",
+              "description": "Unlocking the Potential of $GOOD: GoSwap's Tokenomics under Community Governance",
+              "source": "@site/docs/Good/Distribution.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Distribution",
+              "permalink": "/docs/Good/Distribution",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Distribution.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -88,79 +92,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "Tokenomics",
+                "permalink": "/docs/Good/Tokenomics"
               },
               "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "Utilities",
+                "permalink": "/docs/Good/Utilities"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "unversionedId": "Good/Governance",
+              "id": "Good/Governance",
+              "title": "GoSwap Governance Structure",
+              "description": "Introduction",
+              "source": "@site/docs/Good/Governance.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Governance",
+              "permalink": "/docs/Good/Governance",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Governance.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -169,52 +119,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "Utilities",
+                "permalink": "/docs/Good/Utilities"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "title": "Burn plan",
+                "permalink": "/docs/Good/Burn plan"
               }
             },
             {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "unversionedId": "Good/Token",
+              "id": "Good/Token",
+              "title": "Token",
+              "description": "Title Fueling the GoSwap Ecosystem",
+              "source": "@site/docs/Good/Token.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Token",
+              "permalink": "/docs/Good/Token",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Token.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -223,25 +146,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "$GOOD",
+                "permalink": "/docs/category/good"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "title": "Tokenomics",
+                "permalink": "/docs/Good/Tokenomics"
               }
             },
             {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "unversionedId": "Good/Tokenomics",
+              "id": "Good/Tokenomics",
+              "title": "Tokenomics",
+              "description": "Token Allocation & Usage Summary:",
+              "source": "@site/docs/Good/Tokenomics.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Tokenomics",
+              "permalink": "/docs/Good/Tokenomics",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Tokenomics.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -250,8 +173,136 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "Token",
+                "permalink": "/docs/Good/Token"
+              },
+              "next": {
+                "title": "Distribution",
+                "permalink": "/docs/Good/Distribution"
+              }
+            },
+            {
+              "unversionedId": "Good/Utilities",
+              "id": "Good/Utilities",
+              "title": "Utilities",
+              "description": "hallo",
+              "source": "@site/docs/Good/Utilities.md",
+              "sourceDirName": "Good",
+              "slug": "/Good/Utilities",
+              "permalink": "/docs/Good/Utilities",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Distribution",
+                "permalink": "/docs/Good/Distribution"
+              },
+              "next": {
+                "title": "GoSwap Governance Structure",
+                "permalink": "/docs/Good/Governance"
+              }
+            },
+            {
+              "unversionedId": "GoTrade",
+              "id": "GoTrade",
+              "title": "GoTrade",
+              "description": "Title Revolutionizing Cryptocurrency Trading with $GOOD Token",
+              "source": "@site/docs/GoTrade.md",
+              "sourceDirName": ".",
+              "slug": "/GoTrade",
+              "permalink": "/docs/GoTrade",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/GoTrade.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Crypto",
+                "permalink": "/docs/Solutions/Crypto"
+              }
+            },
+            {
+              "unversionedId": "Intro",
+              "id": "Intro",
+              "title": "Intro",
+              "description": "Introducing GoSwap DEX, a trailblazing decentralized exchange that embodies our commitment to making cryptocurrency accessible to all. Our mission is to simplify the crypto landscape, providing a user-friendly platform that empowers both seasoned enthusiasts and newcomers alike.",
+              "source": "@site/docs/Intro.md",
+              "sourceDirName": ".",
+              "slug": "/Intro",
+              "permalink": "/docs/Intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Ecosystem overview",
+                "permalink": "/docs/Ecosystem overview"
+              }
+            },
+            {
+              "unversionedId": "Solutions/Consumer",
+              "id": "Solutions/Consumer",
+              "title": "Consumer",
+              "description": "To support our ecosystem and user growth GoSwap is looking into several consumer solutions. These solutions are on and offramp solutions, but also possibilities to create market making solutions such as trading toolsets. These tools are exclusively created for GoSwap, to boost our token, project listings and the portfolio from our users / customers.",
+              "source": "@site/docs/Solutions/Consumer.md",
+              "sourceDirName": "Solutions",
+              "slug": "/Solutions/Consumer",
+              "permalink": "/docs/Solutions/Consumer",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Consumer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Solutions",
+                "permalink": "/docs/category/solutions"
+              },
+              "next": {
+                "title": "Crypto",
+                "permalink": "/docs/Solutions/Crypto"
+              }
+            },
+            {
+              "unversionedId": "Solutions/Crypto",
+              "id": "Solutions/Crypto",
+              "title": "Crypto",
+              "description": "Chain dApps",
+              "source": "@site/docs/Solutions/Crypto.md",
+              "sourceDirName": "Solutions",
+              "slug": "/Solutions/Crypto",
+              "permalink": "/docs/Solutions/Crypto",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Consumer",
+                "permalink": "/docs/Solutions/Consumer"
+              },
+              "next": {
+                "title": "GoTrade",
+                "permalink": "/docs/GoTrade"
               }
             }
           ],
@@ -260,66 +311,75 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "Intro"
+              },
+              {
+                "type": "doc",
+                "id": "Ecosystem overview"
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "$GOOD",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "Good/Token"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "Good/Tokenomics"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "Good/Distribution"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
+                    "id": "Good/Utilities"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
+                    "id": "Good/Governance"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "Good/Burn plan"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "description": "GoSwap | $GOOD",
+                  "slug": "/category/good",
+                  "permalink": "/docs/category/good"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Solutions",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "Solutions/Consumer"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "Solutions/Crypto"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "description": "GoSwap | Solutions",
+                  "slug": "/category/solutions",
+                  "permalink": "/docs/category/solutions"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "GoTrade"
               }
             ]
           }

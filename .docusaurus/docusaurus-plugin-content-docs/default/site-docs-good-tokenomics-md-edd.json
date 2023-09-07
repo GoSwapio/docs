@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Good/Tokenomics",
+  "id": "Good/Tokenomics",
+  "title": "Tokenomics",
+  "description": "Token Allocation & Usage Summary:",
+  "source": "@site/docs/Good/Tokenomics.md",
+  "sourceDirName": "Good",
+  "slug": "/Good/Tokenomics",
+  "permalink": "/docs/Good/Tokenomics",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Tokenomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token",
+    "permalink": "/docs/Good/Token"
+  },
+  "next": {
+    "title": "Distribution",
+    "permalink": "/docs/Good/Distribution"
+  }
+}

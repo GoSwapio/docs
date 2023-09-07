@@ -1,0 +1,16 @@
+{
+  "title": "Introduction",
+  "description": "GoSwap | Introduction",
+  "slug": "/category/introduction-1",
+  "permalink": "/docs/category/introduction-1",
+  "navigation": {
+    "previous": {
+      "title": "vision",
+      "permalink": "/docs/Introduction/vision"
+    },
+    "next": {
+      "title": "about",
+      "permalink": "/docs/Introduction copy/about"
+    }
+  }
+}

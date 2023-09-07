@@ -1,0 +1,24 @@
+{
+  "unversionedId": "$good/governance",
+  "id": "$good/governance",
+  "title": "governance",
+  "description": "",
+  "source": "@site/docs/$good/governance.md",
+  "sourceDirName": "$good",
+  "slug": "/$good/governance",
+  "permalink": "/docs/$good/governance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/$good/governance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "distribution",
+    "permalink": "/docs/$good/distribution"
+  },
+  "next": {
+    "title": "tokenomics",
+    "permalink": "/docs/$good/tokenomics"
+  }
+}

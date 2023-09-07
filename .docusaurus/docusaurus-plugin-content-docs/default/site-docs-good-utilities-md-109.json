@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Good/Utilities",
+  "id": "Good/Utilities",
+  "title": "Utilities",
+  "description": "hallo",
+  "source": "@site/docs/Good/Utilities.md",
+  "sourceDirName": "Good",
+  "slug": "/Good/Utilities",
+  "permalink": "/docs/Good/Utilities",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Utilities.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distribution",
+    "permalink": "/docs/Good/Distribution"
+  },
+  "next": {
+    "title": "GoSwap Governance Structure",
+    "permalink": "/docs/Good/Governance"
+  }
+}

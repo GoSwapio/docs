@@ -1,0 +1,16 @@
+{
+  "title": "$GOOD",
+  "description": "GoSwap | $GOOD",
+  "slug": "/category/good",
+  "permalink": "/docs/category/good",
+  "navigation": {
+    "previous": {
+      "title": "Ecosystem overview",
+      "permalink": "/docs/Ecosystem overview"
+    },
+    "next": {
+      "title": "Token",
+      "permalink": "/docs/Good/Token"
+    }
+  }
+}

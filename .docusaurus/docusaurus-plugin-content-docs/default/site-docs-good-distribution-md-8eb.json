@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Good/Distribution",
+  "id": "Good/Distribution",
+  "title": "Distribution",
+  "description": "Unlocking the Potential of $GOOD: GoSwap's Tokenomics under Community Governance",
+  "source": "@site/docs/Good/Distribution.md",
+  "sourceDirName": "Good",
+  "slug": "/Good/Distribution",
+  "permalink": "/docs/Good/Distribution",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Distribution.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokenomics",
+    "permalink": "/docs/Good/Tokenomics"
+  },
+  "next": {
+    "title": "Utilities",
+    "permalink": "/docs/Good/Utilities"
+  }
+}

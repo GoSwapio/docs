@@ -1,0 +1,24 @@
+{
+  "unversionedId": "burn/intro",
+  "id": "burn/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/burn/intro.md",
+  "sourceDirName": "burn",
+  "slug": "/burn/intro",
+  "permalink": "/docs/burn/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/burn/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Burn",
+    "permalink": "/docs/category/burn"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Solutions",
+  "description": "GoSwap | Solutions",
+  "slug": "/category/solutions-1",
+  "permalink": "/docs/category/solutions-1",
+  "navigation": {
+    "previous": {
+      "title": "Solutions",
+      "permalink": "/docs/category/solutions"
+    },
+    "next": {
+      "title": "On & Offramp Solutions",
+      "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions"
+    }
+  }
+}

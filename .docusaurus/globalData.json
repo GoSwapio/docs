@@ -8,61 +8,71 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Intro",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "Ecosystem overview",
+              "path": "/docs/Ecosystem overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "Good/Burn plan",
+              "path": "/docs/Good/Burn plan",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "Good/Distribution",
+              "path": "/docs/Good/Distribution",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "Good/Governance",
+              "path": "/docs/Good/Governance",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "Good/Token",
+              "path": "/docs/Good/Token",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "Good/Tokenomics",
+              "path": "/docs/Good/Tokenomics",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "Good/Utilities",
+              "path": "/docs/Good/Utilities",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "GoTrade",
+              "path": "/docs/GoTrade",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "Intro",
+              "path": "/docs/Intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "Solutions/Consumer",
+              "path": "/docs/Solutions/Consumer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "Solutions/Crypto",
+              "path": "/docs/Solutions/Crypto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/good",
+              "path": "/docs/category/good",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/solutions",
+              "path": "/docs/category/solutions",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +80,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/Intro",
+                "label": "Intro"
               }
             }
           }

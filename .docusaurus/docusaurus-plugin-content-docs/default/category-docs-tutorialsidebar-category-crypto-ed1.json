@@ -1,0 +1,16 @@
+{
+  "title": "Crypto",
+  "description": "GoSwap | Crypto Solutions",
+  "slug": "/category/crypto",
+  "permalink": "/docs/category/crypto",
+  "navigation": {
+    "previous": {
+      "title": "Consumer",
+      "permalink": "/docs/Solutions/Consumer"
+    },
+    "next": {
+      "title": "Chain dApps",
+      "permalink": "/docs/Solutions/Crypto/Chain dApps"
+    }
+  }
+}

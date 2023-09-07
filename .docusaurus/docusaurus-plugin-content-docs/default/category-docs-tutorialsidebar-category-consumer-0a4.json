@@ -1,0 +1,16 @@
+{
+  "title": "Consumer",
+  "description": "GoSwap | Consumer Solutions",
+  "slug": "/category/consumer",
+  "permalink": "/docs/category/consumer",
+  "navigation": {
+    "previous": {
+      "title": "Consumer",
+      "permalink": "/docs/Solutions/Consumer"
+    },
+    "next": {
+      "title": "On & Offramp Solutions",
+      "permalink": "/docs/Solutions/Consumer/On & Offramp Solutions"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Introduction/Goals",
+  "id": "Introduction/Goals",
+  "title": "Goals",
+  "description": "",
+  "source": "@site/docs/Introduction/Goals.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/Goals",
+  "permalink": "/docs/Introduction/Goals",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/Goals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision",
+    "permalink": "/docs/Introduction/Vision"
+  },
+  "next": {
+    "title": "GoSwap",
+    "permalink": "/docs/Introduction"
+  }
+}

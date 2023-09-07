@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Solutions/vision",
+  "id": "Solutions/vision",
+  "title": "vision",
+  "description": "",
+  "source": "@site/docs/Solutions/vision.md",
+  "sourceDirName": "Solutions",
+  "slug": "/Solutions/vision",
+  "permalink": "/docs/Solutions/vision",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "goals",
+    "permalink": "/docs/Solutions/goals"
+  },
+  "next": {
+    "title": "GoSwap Blueprint",
+    "permalink": "/docs/Blueprint"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Introduction copy/about-goswap",
+  "id": "Introduction copy/about-goswap",
+  "title": "about-goswap",
+  "description": "",
+  "source": "@site/docs/Introduction copy/about-goswap.md",
+  "sourceDirName": "Introduction copy",
+  "slug": "/Introduction copy/about-goswap",
+  "permalink": "/docs/Introduction copy/about-goswap",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction copy/about-goswap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/category/introduction-1"
+  },
+  "next": {
+    "title": "goals",
+    "permalink": "/docs/Introduction copy/goals"
+  }
+}

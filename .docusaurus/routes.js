@@ -64,71 +64,83 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '002'),
+    component: ComponentCreator('/docs', '0a7'),
     routes: [
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/docs/category/good',
+        component: ComponentCreator('/docs/category/good', '437'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/tutorial---extras',
-        component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+        path: '/docs/category/solutions',
+        component: ComponentCreator('/docs/category/solutions', '5ad'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/docs/Ecosystem overview',
+        component: ComponentCreator('/docs/Ecosystem overview', 'fa1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/docs/Good/Burn plan',
+        component: ComponentCreator('/docs/Good/Burn plan', '6f6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+        path: '/docs/Good/Distribution',
+        component: ComponentCreator('/docs/Good/Distribution', 'c58'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+        path: '/docs/Good/Governance',
+        component: ComponentCreator('/docs/Good/Governance', 'c3b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+        path: '/docs/Good/Token',
+        component: ComponentCreator('/docs/Good/Token', '8a4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+        path: '/docs/Good/Tokenomics',
+        component: ComponentCreator('/docs/Good/Tokenomics', 'f0a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        path: '/docs/Good/Utilities',
+        component: ComponentCreator('/docs/Good/Utilities', 'a68'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+        path: '/docs/GoTrade',
+        component: ComponentCreator('/docs/GoTrade', '214'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/docs/Intro',
+        component: ComponentCreator('/docs/Intro', '1f0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Solutions/Consumer',
+        component: ComponentCreator('/docs/Solutions/Consumer', 'fca'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Solutions/Crypto',
+        component: ComponentCreator('/docs/Solutions/Crypto', '50a'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

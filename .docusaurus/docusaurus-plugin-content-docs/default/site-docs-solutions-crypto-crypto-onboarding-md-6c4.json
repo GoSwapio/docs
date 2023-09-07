@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Solutions/Crypto/crypto-onboarding",
+  "id": "Solutions/Crypto/crypto-onboarding",
+  "title": "crypto-onboarding",
+  "description": "",
+  "source": "@site/docs/Solutions/Crypto/crypto-onboarding.md",
+  "sourceDirName": "Solutions/Crypto",
+  "slug": "/Solutions/Crypto/crypto-onboarding",
+  "permalink": "/docs/Solutions/Crypto/crypto-onboarding",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Solutions/Crypto/crypto-onboarding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading & Market Making",
+    "permalink": "/docs/Solutions/Consumer/Trading & Market Making"
+  },
+  "next": {
+    "title": "goswap-chain-dapps",
+    "permalink": "/docs/Solutions/Crypto/goswap-chain-dapps"
+  }
+}

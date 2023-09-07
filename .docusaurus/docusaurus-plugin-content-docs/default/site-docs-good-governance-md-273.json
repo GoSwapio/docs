@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Good/Governance",
+  "id": "Good/Governance",
+  "title": "GoSwap Governance Structure",
+  "description": "Introduction",
+  "source": "@site/docs/Good/Governance.md",
+  "sourceDirName": "Good",
+  "slug": "/Good/Governance",
+  "permalink": "/docs/Good/Governance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Good/Governance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Utilities",
+    "permalink": "/docs/Good/Utilities"
+  },
+  "next": {
+    "title": "Burn plan",
+    "permalink": "/docs/Good/Burn plan"
+  }
+}

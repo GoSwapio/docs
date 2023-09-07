@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'GoSwap.io',
+  tagline: 'GoSwap - Crypto Made Easy',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.goswap.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'goswapio', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,17 +64,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'GoSwap.io',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'GoSwap Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Litepaper',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -88,46 +88,62 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Socials',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'X',
+                to: 'https://x.com/goswapio',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Github',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GoSwap-v1-contracts',
+                href: '#',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GoSwap-v1-interface',
+                href: '#',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'GoSwap-v1-docs',
+                href: '#',
+              },
+              {
+                label: 'Deployment Addresses',
+                href: '#',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Ecosystem',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Home',
+                to: 'https://goswap.io',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'App',
+                href: 'https://app.goswap.io',
+              },
+              {
+                label: 'Farming',
+                href: 'https://app.goswap.io/farming',
+              },
+              {
+                label: 'Staking',
+                href: 'https://app.goswap.io/staking',
+              },
+              {
+                label: 'Blueprint',
+                href: 'https://goswap.io/blueprint',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GoSwap.`,
       },
       prism: {
         theme: lightCodeTheme,
